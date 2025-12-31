@@ -1,0 +1,24 @@
+# 🚀 Crypto Project Name
+
+Ek decentralized smart contract repository jo [Hardhat/Foundry] ka upyog karke banayi gayi hai. Is project ka uddeshya [Project Purpose: e.g., Token launch / Staking / NFT Marketplace] hai.
+
+---
+
+## ✨ Features
+* **ERC-20/ERC-721 Standard:** Fully compliant tokens.
+* **Secure:** Reentrancy guard aur OpenZeppelin security standards ka upyog.
+* **Optimized:** Low gas consumption logic.
+* **Tested:** 100% code coverage ke liye unit tests.
+
+## 🛠 Tech Stack
+* **Solidity** (Smart Contracts)
+* **Hardhat** (Development Environment)
+* **Ethers.js** (Blockchain Interaction)
+* **OpenZeppelin** (Security Library)
+
+## 🚀 Getting Started
+
+### Prerequisites
+Sabse pehle Node.js install karein aur phir dependencies:
+```bash
+npm install
