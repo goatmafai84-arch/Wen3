@@ -1,1 +1,18 @@
-hd
+
+mkdir my-web3-project && cd my-web3-project
+npm init -y
+npm install --save-dev hardhat
+npx hardhat  # 'Create an empty hardhat.config.js' select karein
+
+
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract MyToken {
+    string public name = "My Web3 Token";
+    address public owner;
+
+    constructor() {
+        owner = msg.sender;
+    }
+}
