@@ -1,7 +1,3 @@
-bndndn
-b
-gx
-ccc
-xxbn
-xx
-xzbmm
+Smart Contracts The "Backend" logic that lives on the blockchain. Solidity (Ethereum/EVM), Rust (Solana/Polkadot)
+Provider / API The bridge between your code and the blockchain nodes. Infura, Alchemy, Ethers.js, Web3.js
+Frontend The UI where users connect their wallets (e.g., MetaMask). React
